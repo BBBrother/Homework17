@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Homework17</string>
+    <string name="counter">0</string>
+    <string name="reset">Reset</string>
 </resources>
